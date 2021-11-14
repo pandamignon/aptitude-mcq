@@ -16,3 +16,29 @@ model user {
   name     String
   password String
 }
+
+model quiz {
+  id            String          @id @default(uuid())
+  tital         String
+  published     Boolean
+  quiz_question quiz_question[]
+  level_loop    level_loop?     @relation(fields: [level_loopId], references: [id])
+  level_loopId  String?
+}
+
+model quiz_question {
+  id     String @id @default(uuid())
+  title  String
+  level  String
+  quiz   quiz   @relation(fields: [quizId], references: [id])
+  quizId String
+}
+
+model level_loop {
+  id           String       @id @default(uuid())
+  name         String
+  ref          level_loop?  @relation("level_loopTolevel_loop", fields: [level_loopId], references: [id])
+  level_loopId String?
+  level_loop   level_loop[] @relation("level_loopTolevel_loop")
+  quiz         quiz[]
+}
