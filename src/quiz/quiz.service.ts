@@ -1,18 +1,16 @@
 import { Injectable } from '@nestjs/common';
-import { PrismaService } from '../prisma/prisma.service'
+import { PrismaService } from '../prisma/prisma.service';
 
 @Injectable()
 export class QuizService {
-    constructor(
-        private readonly prismaService: PrismaService
-    ) { }
+  constructor(private readonly prismaService: PrismaService) {}
 
-    public get() {
-        return this.prismaService.quiz.findMany({
-            select: {
-                tital: true,
-                quiz_question: true
-            }
-        })
-    }
+  public get() {
+    return this.prismaService.quiz.findMany({
+      select: {
+        tital: true,
+        quiz_question: true,
+      },
+    });
+  }
 }

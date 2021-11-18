@@ -11,34 +11,41 @@ datasource db {
 }
 
 model user {
-  id       Int    @id @default(autoincrement())
+  uid      Int    @id @default(autoincrement())
   email    String @unique
   name     String
   password String
+  take     take[]
 }
 
-model quiz {
-  id            String          @id @default(uuid())
-  tital         String
-  published     Boolean
-  quiz_question quiz_question[]
-  level_loop    level_loop?     @relation(fields: [level_loopId], references: [id])
-  level_loopId  String?
+model career {
+  careerid       String           @id @default(uuid())
+  name           String
+  career_subject career_subject[]
+}
+
+model career_subject {
+  id       String @id @default(uuid())
+  title    String
+  career   career @relation(fields: [careerid], references: [careerid])
+  careerid String
 }
 
 model quiz_question {
-  id     String @id @default(uuid())
-  title  String
-  level  String
-  quiz   quiz   @relation(fields: [quizId], references: [id])
-  quizId String
+  questionid     String   @id @default(uuid())
+  question       String
+  level          String
+  answer         String[]
+  correct_answer String
+
 }
 
-model level_loop {
-  id           String       @id @default(uuid())
-  name         String
-  ref          level_loop?  @relation("level_loopTolevel_loop", fields: [level_loopId], references: [id])
-  level_loopId String?
-  level_loop   level_loop[] @relation("level_loopTolevel_loop")
-  quiz         quiz[]
+model take {
+  id       String   @id @default(uuid())
+  score    Int
+  status   String
+  testDate DateTime
+  user     user     @relation(fields: [userId], references: [uid])
+  userId   Int
+
 }
