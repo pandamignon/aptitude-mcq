@@ -1,0 +1,15 @@
+{
+"level": [
+	{
+		"levelid" : "e935633a-d55f-48fe-8f43-584923e7f406",
+		"title" : "Easy"
+	},
+	{
+		"levelid" : "15f5f881-2e17-49a6-9f35-6482b18bb58a",
+		"title" : "Medium"
+	},
+	{
+		"levelid" : "24e1592d-0e4b-4d2a-882a-86abdfce18cb",
+		"title" : "Hard"
+	}
+]}

@@ -6,9 +6,9 @@ export class QuizService {
   constructor(private readonly prismaService: PrismaService) {}
 
   public get() {
-    return this.prismaService.quiz.findMany({
+    return this.prismaService.career_subject.findMany({
       select: {
-        tital: true,
+        title: true,
         quiz_question: true,
       },
     });

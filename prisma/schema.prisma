@@ -25,27 +25,38 @@ model career {
 }
 
 model career_subject {
-  id       String @id @default(uuid())
-  title    String
-  career   career @relation(fields: [careerid], references: [careerid])
-  careerid String
+  id            String          @id @default(uuid())
+  title         String
+  career        career          @relation(fields: [careerid], references: [careerid])
+  careerid      String
+  quiz_question quiz_question[]
+  take          take[]
 }
 
 model quiz_question {
-  questionid     String   @id @default(uuid())
-  question       String
-  level          String
-  answer         String[]
-  correct_answer String
+  questionid       String          @id @default(uuid())
+  question         String
+  answer           String[]
+  correct_answer   String
+  level            level           @relation(fields: [levelid], references: [levelid])
+  levelid          String
+  career_subject   career_subject? @relation(fields: [career_subjectId], references: [id])
+  career_subjectId String?
+}
 
+model level {
+  levelid       String          @id @default(uuid())
+  title         String
+  quiz_question quiz_question[]
 }
 
 model take {
-  id       String   @id @default(uuid())
-  score    Int
-  status   String
-  testDate DateTime
-  user     user     @relation(fields: [userId], references: [uid])
-  userId   Int
-
+  id               String          @id @default(uuid())
+  score            Int
+  status           String
+  testDate         DateTime
+  user             user            @relation(fields: [userId], references: [uid])
+  userId           Int
+  career_subject   career_subject? @relation(fields: [career_subjectId], references: [id])
+  career_subjectId String?
 }
