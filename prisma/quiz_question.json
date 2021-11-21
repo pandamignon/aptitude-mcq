@@ -149,7 +149,7 @@
 		"question" : "\t A type of simulation method using random numbers to determine the evolution of a system is",
 		"answer" : "{Modeldispersion,Montecarlo,Monadic,Padding}",
 		"correct_answer" : "Monte carlo",
-		"levelid" : "24e1592d-0e4b-4d2a-882a-86abdfce18cb",
+		"levelid" : "15f5f881-2e17-49a6-9f35-6482b18bb58a",
 		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
 	},
 	{
@@ -157,79 +157,7 @@
 		"question" : "A database management system based on the concept of ownership is",
 		"answer" : "{Networktopology,Networklayer,Networkdatabasesystem,Networklicensesystem}",
 		"correct_answer" : "Network database system",
-		"levelid" : "24e1592d-0e4b-4d2a-882a-86abdfce18cb",
-		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
-	},
-	{
-		"questionid" : "cb6e5767-57bd-499e-a8af-56c4da327af4",
-		"question" : "Which of the following printers, are you sure will not to use if your objective is to print on multicarbon forms",
-		"answer" : "{daisywheel,dot-matrix,laser,thimble}",
-		"correct_answer" : "laser",
-		"levelid" : "24e1592d-0e4b-4d2a-882a-86abdfce18cb",
-		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
-	},
-	{
-		"questionid" : "b57dc865-45a9-484a-8ef2-b73d84dff737",
-		"question" : "The term MIPS refers to _____",
-		"answer" : "{millionsofinstructionspersecond,multipleinstructionspersecond,megabytesofinstructionsperseconds,millionsinputprocessorset}",
-		"correct_answer" : "millions of instructions per second",
-		"levelid" : "24e1592d-0e4b-4d2a-882a-86abdfce18cb",
-		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
-	},
-	{
-		"questionid" : "e2769fee-3616-4332-9777-40abc4c6ae90",
-		"question" : "The primary memory of a personal computer consists of:",
-		"answer" : "{ROMonly,RAMonly,BothROMandRAM,Memorymodule}",
-		"correct_answer" : "Both ROM and RAM",
-		"levelid" : "24e1592d-0e4b-4d2a-882a-86abdfce18cb",
-		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
-	},
-	{
-		"questionid" : "cd29a371-9b39-42a7-aafc-5c164a1c432c",
-		"question" : "\t A software package to implement a data base is",
-		"answer" : "{Systemanalysis,DBMS,Database,DASD}",
-		"correct_answer" : "DBMS",
-		"levelid" : "24e1592d-0e4b-4d2a-882a-86abdfce18cb",
-		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
-	},
-	{
-		"questionid" : "2511c647-b185-4678-b848-64c8301501c3",
-		"question" : "Methods used to organise and physically store disk data are cylinder and",
-		"answer" : "{Sector,Surface,Track,Hib}",
-		"correct_answer" : "Sector",
-		"levelid" : "24e1592d-0e4b-4d2a-882a-86abdfce18cb",
-		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
-	},
-	{
-		"questionid" : "bec126d9-9778-47e8-b894-b85da90d4aad",
-		"question" : "A dot-matrix printer",
-		"answer" : "{isaninputdevice,isanoutputdevice,cannotprintalphabet,hasaspeedof1000cps}",
-		"correct_answer" : "is an output device",
-		"levelid" : "24e1592d-0e4b-4d2a-882a-86abdfce18cb",
-		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
-	},
-	{
-		"questionid" : "352b4d5f-2aa4-4dd5-93fe-a3b95f7edcdb",
-		"question" : "\t What was the name of the first commercially available micro¬processor chip",
-		"answer" : "{Intel8008,Intel8080,Intel4004,Motorola6809}",
-		"correct_answer" : "Intel 4004",
-		"levelid" : "24e1592d-0e4b-4d2a-882a-86abdfce18cb",
-		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
-	},
-	{
-		"questionid" : "d74a86e2-cfd2-4273-8a6c-41e033df5a86",
-		"question" : "The term \"memory\" applies to which one of the following",
-		"answer" : "{Logic,Storage,Control,Inputdevice}",
-		"correct_answer" : "Storage",
-		"levelid" : "24e1592d-0e4b-4d2a-882a-86abdfce18cb",
-		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
-	},
-	{
-		"questionid" : "c9f3314e-1866-4549-bcd5-39922bdd2d72",
-		"question" : "\t The light pen was developed in",
-		"answer" : "{1942,1976,1950,1992}",
-		"correct_answer" : "1950",
-		"levelid" : "24e1592d-0e4b-4d2a-882a-86abdfce18cb",
+		"levelid" : "15f5f881-2e17-49a6-9f35-6482b18bb58a",
 		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
 	},
 	{
@@ -238,22 +166,6 @@
 		"answer" : "{Tele-text,Network,Telematique,Video text}",
 		"correct_answer" : "Video text",
 		"levelid" : "15f5f881-2e17-49a6-9f35-6482b18bb58a",
-		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
-	},
-	{
-		"questionid" : "f13a9244-1ea1-4c5b-99a6-fc6d1cc541bc",
-		"question" : "Which of the following is directry controlled from a keyboard.",
-		"answer" : "{Card punch,Punched paper tape,Magnetic disk,Magnetic tape}",
-		"correct_answer" : "Card punch",
-		"levelid" : "24e1592d-0e4b-4d2a-882a-86abdfce18cb",
-		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
-	},
-	{
-		"questionid" : "c7869301-119b-401f-875f-acd31562fb65",
-		"question" : "\t Which of the following is a machine for reading documents that are encoded in a way that is readable by person and machine.",
-		"answer" : "{Document reader,Distributed system,Artificial intelligence,Document sorter}",
-		"correct_answer" : "Document reader",
-		"levelid" : "24e1592d-0e4b-4d2a-882a-86abdfce18cb",
 		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
 	},
 	{
@@ -377,6 +289,22 @@
 		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
 	},
 	{
+		"questionid" : "cd29a371-9b39-42a7-aafc-5c164a1c432c",
+		"question" : "\t A software package to implement a data base is",
+		"answer" : "{Systemanalysis,DBMS,Database,DASD}",
+		"correct_answer" : "DBMS",
+		"levelid" : "15f5f881-2e17-49a6-9f35-6482b18bb58a",
+		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
+	},
+	{
+		"questionid" : "2511c647-b185-4678-b848-64c8301501c3",
+		"question" : "Methods used to organise and physically store disk data are cylinder and",
+		"answer" : "{Sector,Surface,Track,Hib}",
+		"correct_answer" : "Sector",
+		"levelid" : "15f5f881-2e17-49a6-9f35-6482b18bb58a",
+		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
+	},
+	{
 		"questionid" : "6f693456-c751-4f13-93ee-941fdf72d911",
 		"question" : "A program used to detect overall system malfunction is",
 		"answer" : "{System analysis,System software,Utilities,System diagnostics}",
@@ -478,6 +406,78 @@
 		"answer" : "{Technologicaladvancement,Scientificcode,ObjectOrientedProgramming,Noneoftheabove}",
 		"correct_answer" : "Technological advancement",
 		"levelid" : "e935633a-d55f-48fe-8f43-584923e7f406",
+		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
+	},
+	{
+		"questionid" : "cb6e5767-57bd-499e-a8af-56c4da327af4",
+		"question" : "Which of the following printers, are you sure will not to use if your objective is to print on multicarbon forms",
+		"answer" : "{daisywheel,dot-matrix,laser,thimble}",
+		"correct_answer" : "laser",
+		"levelid" : "15f5f881-2e17-49a6-9f35-6482b18bb58a",
+		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
+	},
+	{
+		"questionid" : "b57dc865-45a9-484a-8ef2-b73d84dff737",
+		"question" : "The term MIPS refers to _____",
+		"answer" : "{millionsofinstructionspersecond,multipleinstructionspersecond,megabytesofinstructionsperseconds,millionsinputprocessorset}",
+		"correct_answer" : "millions of instructions per second",
+		"levelid" : "15f5f881-2e17-49a6-9f35-6482b18bb58a",
+		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
+	},
+	{
+		"questionid" : "e2769fee-3616-4332-9777-40abc4c6ae90",
+		"question" : "The primary memory of a personal computer consists of:",
+		"answer" : "{ROMonly,RAMonly,BothROMandRAM,Memorymodule}",
+		"correct_answer" : "Both ROM and RAM",
+		"levelid" : "15f5f881-2e17-49a6-9f35-6482b18bb58a",
+		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
+	},
+	{
+		"questionid" : "bec126d9-9778-47e8-b894-b85da90d4aad",
+		"question" : "A dot-matrix printer",
+		"answer" : "{isaninputdevice,isanoutputdevice,cannotprintalphabet,hasaspeedof1000cps}",
+		"correct_answer" : "is an output device",
+		"levelid" : "15f5f881-2e17-49a6-9f35-6482b18bb58a",
+		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
+	},
+	{
+		"questionid" : "352b4d5f-2aa4-4dd5-93fe-a3b95f7edcdb",
+		"question" : "\t What was the name of the first commercially available micro¬processor chip",
+		"answer" : "{Intel8008,Intel8080,Intel4004,Motorola6809}",
+		"correct_answer" : "Intel 4004",
+		"levelid" : "15f5f881-2e17-49a6-9f35-6482b18bb58a",
+		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
+	},
+	{
+		"questionid" : "d74a86e2-cfd2-4273-8a6c-41e033df5a86",
+		"question" : "The term \"memory\" applies to which one of the following",
+		"answer" : "{Logic,Storage,Control,Inputdevice}",
+		"correct_answer" : "Storage",
+		"levelid" : "15f5f881-2e17-49a6-9f35-6482b18bb58a",
+		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
+	},
+	{
+		"questionid" : "c9f3314e-1866-4549-bcd5-39922bdd2d72",
+		"question" : "\t The light pen was developed in",
+		"answer" : "{1942,1976,1950,1992}",
+		"correct_answer" : "1950",
+		"levelid" : "15f5f881-2e17-49a6-9f35-6482b18bb58a",
+		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
+	},
+	{
+		"questionid" : "f13a9244-1ea1-4c5b-99a6-fc6d1cc541bc",
+		"question" : "Which of the following is directry controlled from a keyboard.",
+		"answer" : "{Card punch,Punched paper tape,Magnetic disk,Magnetic tape}",
+		"correct_answer" : "Card punch",
+		"levelid" : "15f5f881-2e17-49a6-9f35-6482b18bb58a",
+		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
+	},
+	{
+		"questionid" : "c7869301-119b-401f-875f-acd31562fb65",
+		"question" : "\t Which of the following is a machine for reading documents that are encoded in a way that is readable by person and machine.",
+		"answer" : "{Document reader,Distributed system,Artificial intelligence,Document sorter}",
+		"correct_answer" : "Document reader",
+		"levelid" : "24e1592d-0e4b-4d2a-882a-86abdfce18cb",
 		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
 	}
 ]}
