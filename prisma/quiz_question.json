@@ -239,5 +239,245 @@
 		"correct_answer" : "Storage",
 		"levelid" : "24e1592d-0e4b-4d2a-882a-86abdfce18cb",
 		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
+	},
+	{
+		"questionid" : "834b7bbf-826b-45fa-ac54-997e4f6b73af",
+		"question" : "A micro processor chip used in a PC system",
+		"answer" : "Performs the arithmetic-logic and control functions,Is the only chip cound in most PC models,Almost always operates on by-bits of data at a time,Performs the primary storage function",
+		"correct_answer" : "Performs the arithmetic-logic and control functions",
+		"levelid" : "15f5f881-2e17-49a6-9f35-6482b18bb58a",
+		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
+	},
+	{
+		"questionid" : "84c51f59-d6a2-4c57-a60a-57283722affe",
+		"question" : "Arranging data in a specific order is called",
+		"answer" : "Merging,Sorting,Classification,Verification",
+		"correct_answer" : "Sorting",
+		"levelid" : "24e1592d-0e4b-4d2a-882a-86abdfce18cb",
+		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
+	},
+	{
+		"questionid" : "899e6fcf-42bc-4d40-a72c-0427db2c7c4f",
+		"question" : "A type of line printer that uses an embossed steel band to form the letters printed on the paper is",
+		"answer" : "Golfballprinter,Dot-matrixprinter,Laserprinter,Bandprinter",
+		"correct_answer" : "Band printer",
+		"levelid" : "15f5f881-2e17-49a6-9f35-6482b18bb58a",
+		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
+	},
+	{
+		"questionid" : "89fc0eed-e8bd-4373-bf85-f2ac53b0e337",
+		"question" : "A programming language intended to solve a no. of different types of problems is",
+		"answer" : "COBOL,General purpose programming language,BASIC,FORTRAN",
+		"correct_answer" : "General purpose programming language",
+		"levelid" : "24e1592d-0e4b-4d2a-882a-86abdfce18cb",
+		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
+	},
+	{
+		"questionid" : "8bd203ed-0a4b-488a-b809-190c3ac4701f",
+		"question" : "A computer, by definition, is any device that computers. This broad definition includes which of the following?",
+		"answer" : "Calculators,Cash registers,Automotive controllers,All of the above",
+		"correct_answer" : "All of the above",
+		"levelid" : "15f5f881-2e17-49a6-9f35-6482b18bb58a",
+		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
+	},
+	{
+		"questionid" : "91663e0c-9869-4041-b59e-c2bcaf343e15",
+		"question" : "Which of the following is used to make a programs run when the computer is switched on.",
+		"answer" : "Autoboot,Warmboot,Bubble,Authentication",
+		"correct_answer" : "Autoboot",
+		"levelid" : "15f5f881-2e17-49a6-9f35-6482b18bb58a",
+		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
+	},
+	{
+		"questionid" : "993845fb-7757-4282-b8e0-abe17b3eab52",
+		"question" : "Which of the following is a computer memory that can be programmed once, but not reprogrammed.",
+		"answer" : "ROM,RAM,PROM,EPROM",
+		"correct_answer" : "PROM",
+		"levelid" : "e935633a-d55f-48fe-8f43-584923e7f406",
+		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
+	},
+	{
+		"questionid" : "9ae06bc5-4999-4b7d-8862-ea23b7cf9b31",
+		"question" : "A section of code to which control is transferred when a processor is interrupted is known as",
+		"answer" : "M,SVC,IP,MDR",
+		"correct_answer" : "M",
+		"levelid" : "e935633a-d55f-48fe-8f43-584923e7f406",
+		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
+	},
+	{
+		"questionid" : "a28b3f6e-dfac-4c7e-86f2-6ad98b383062",
+		"question" : "A 'number crunching' computer is one that can handle",
+		"answer" : "largespreadsheets,largealphanumericdata,largevolumeofnumbers,onlynumbers",
+		"correct_answer" : "large volume of numbers",
+		"levelid" : "15f5f881-2e17-49a6-9f35-6482b18bb58a",
+		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
+	},
+	{
+		"questionid" : "a9bd3245-8572-4304-b8b5-ee11e7d7f022",
+		"question" : "Which part interprets program instructions and initiate control operations.",
+		"answer" : "Input,Storageunit,Logicunit,Control unit",
+		"correct_answer" : "Control unit",
+		"levelid" : "e935633a-d55f-48fe-8f43-584923e7f406",
+		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
+	},
+	{
+		"questionid" : "b3e7da4b-8f10-4119-bb39-b513e4d39813",
+		"question" : "The computer program language which is widely used in computer science and engineering and also in business is",
+		"answer" : "COBOL,FORTRAN,PASCAL,LISP",
+		"correct_answer" : "PASCAL",
+		"levelid" : "15f5f881-2e17-49a6-9f35-6482b18bb58a",
+		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
+	},
+	{
+		"questionid" : "b57dc865-45a9-484a-8ef2-b73d84dff737",
+		"question" : "The term MIPS refers to _____",
+		"answer" : "millionsofinstructionspersecond,multipleinstructionspersecond,megabytesofinstructionsperseconds,millionsinputprocessorset",
+		"correct_answer" : "millions of instructions per second",
+		"levelid" : "24e1592d-0e4b-4d2a-882a-86abdfce18cb",
+		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
+	},
+	{
+		"questionid" : "bec126d9-9778-47e8-b894-b85da90d4aad",
+		"question" : "A dot-matrix printer.",
+		"answer" : "isaninputdevice,isanoutputdevice,cannotprintalphabet,hasaspeedof1000cps",
+		"correct_answer" : "is an output device",
+		"levelid" : "24e1592d-0e4b-4d2a-882a-86abdfce18cb",
+		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
+	},
+	{
+		"questionid" : "c146f6d1-9ca4-4d9e-ae7b-6a6d7147920f",
+		"question" : "Which of the following is the 1's complement of 10.",
+		"answer" : "01,110,11,10",
+		"correct_answer" : "01",
+		"levelid" : "e935633a-d55f-48fe-8f43-584923e7f406",
+		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
+	},
+	{
+		"questionid" : "c3088908-43bb-4446-824c-a57f7591f696",
+		"question" : "The brain of any computer system is.",
+		"answer" : "ALU,Memory,CPU,Controlunit",
+		"correct_answer" : "CPU",
+		"levelid" : "e935633a-d55f-48fe-8f43-584923e7f406",
+		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
+	},
+	{
+		"questionid" : "c7869301-119b-401f-875f-acd31562fb65",
+		"question" : "Which of the following is a machine for reading documents that are encoded in a way that is readable by person and machine.",
+		"answer" : "Document reader,Distributed system,Artificial intelligence,Document sorter",
+		"correct_answer" : "Document reader",
+		"levelid" : "24e1592d-0e4b-4d2a-882a-86abdfce18cb",
+		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
+	},
+	{
+		"questionid" : "c9f3314e-1866-4549-bcd5-39922bdd2d72",
+		"question" : "The light pen was developed in.",
+		"answer" : "1942,1976,1950,1992",
+		"correct_answer" : "1950",
+		"levelid" : "24e1592d-0e4b-4d2a-882a-86abdfce18cb",
+		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
+	},
+	{
+		"questionid" : "cb1d9959-1893-4a76-b4ea-c9f5594d6fac",
+		"question" : "A typical modern computer uses.",
+		"answer" : "LSIchips,Vacuumtubes,Valves,Noneoftheabove",
+		"correct_answer" : "LSI chips",
+		"levelid" : "15f5f881-2e17-49a6-9f35-6482b18bb58a",
+		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
+	},
+	{
+		"questionid" : "cb6e5767-57bd-499e-a8af-56c4da327af4",
+		"question" : "Which of the following printers, are you sure will not to use if your objective is to print on multicarbon forms.",
+		"answer" : "daisywheel,dot-matrix,laser,thimble",
+		"correct_answer" : "laser",
+		"levelid" : "24e1592d-0e4b-4d2a-882a-86abdfce18cb",
+		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
+	},
+	{
+		"questionid" : "cd29a371-9b39-42a7-aafc-5c164a1c432c",
+		"question" : "A software package to implement a data base is.",
+		"answer" : "Systemanalysis,DBMS,Database,DASD",
+		"correct_answer" : "DBMS",
+		"levelid" : "24e1592d-0e4b-4d2a-882a-86abdfce18cb",
+		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
+	},
+	{
+		"questionid" : "ce135f89-d3dd-4285-a227-ccece25e0939",
+		"question" : "No computer can do anything without a.",
+		"answer" : "program,memory,chip,output device",
+		"correct_answer" : "program",
+		"levelid" : "24e1592d-0e4b-4d2a-882a-86abdfce18cb",
+		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
+	},
+	{
+		"questionid" : "d08c1fa3-cf1c-4c35-8a53-7879cc3f1304",
+		"question" : "Which of the following computer language is used for artificial intelligence.",
+		"answer" : "FORTRAN,PROLOG,C,COBOL",
+		"correct_answer" : "PROLOG",
+		"levelid" : "e935633a-d55f-48fe-8f43-584923e7f406",
+		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
+	},
+	{
+		"questionid" : "d74a86e2-cfd2-4273-8a6c-41e033df5a86",
+		"question" : "The term 'memory' applies to which one of the following.",
+		"answer" : "Logic,Storage,Control,Inputdevice",
+		"correct_answer" : "Storage",
+		"levelid" : "24e1592d-0e4b-4d2a-882a-86abdfce18cb",
+		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
+	},
+	{
+		"questionid" : "da357e3e-32b0-4592-bfd8-2707f1ffbf3a",
+		"question" : "The two main components of the CPU is.",
+		"answer" : "Control unit and registers,Control unit and ALU,\tRegisters and main memory,\tALU and bus",
+		"correct_answer" : "Control unit and ALU",
+		"levelid" : "24e1592d-0e4b-4d2a-882a-86abdfce18cb",
+		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
+	},
+	{
+		"questionid" : "dc2de7be-c13f-4a20-92ff-d5dc5730a32a",
+		"question" : "ENIAC (Electronic Numerical Integrator and Calculator) had huge advantage over Mark I because it used electronic valves in place of the electromagnetic switches. In the beginning, ENIAC was used for calculating the path of artillery shells. For which other was weapon design was it utilized.",
+		"answer" : "hydrogenbomb,atombomb,agnimissile,fighteraircraft",
+		"correct_answer" : "hydrogen bomb",
+		"levelid" : "15f5f881-2e17-49a6-9f35-6482b18bb58a",
+		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
+	},
+	{
+		"questionid" : "e2769fee-3616-4332-9777-40abc4c6ae90",
+		"question" : "The primary memory of a personal computer consists of:.",
+		"answer" : "ROMonly,RAMonly,BothROMandRAM,Memorymodule",
+		"correct_answer" : "Both ROM and RAM",
+		"levelid" : "24e1592d-0e4b-4d2a-882a-86abdfce18cb",
+		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
+	},
+	{
+		"questionid" : "e6d5fedb-1f25-46f8-b0db-23f64f57a6d9",
+		"question" : "The area of computer science which is concerned with the display of pictures is.",
+		"answer" : "Networks,Graphics,Designing,Architecture",
+		"correct_answer" : "Graphics",
+		"levelid" : "24e1592d-0e4b-4d2a-882a-86abdfce18cb",
+		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
+	},
+	{
+		"questionid" : "f13a9244-1ea1-4c5b-99a6-fc6d1cc541bc",
+		"question" : "Which of the following is directry controlled from a keyboard.",
+		"answer" : "Card punch,Punched paper tape,Magnetic disk,Magnetic tape",
+		"correct_answer" : "Card punch",
+		"levelid" : "24e1592d-0e4b-4d2a-882a-86abdfce18cb",
+		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
+	},
+	{
+		"questionid" : "fc35db6b-b655-43f9-8db4-f20ae3e5584d",
+		"question" : "What difference does the 5th generation computer have from other generation computers?.",
+		"answer" : "Technologicaladvancement,Scientificcode,ObjectOrientedProgramming,Noneoftheabove",
+		"correct_answer" : "Technological advancement",
+		"levelid" : "e935633a-d55f-48fe-8f43-584923e7f406",
+		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
+	},
+	{
+		"questionid" : "ff3af11b-9906-4ed2-ae3a-882a2edf5e7b",
+		"question" : "Which of the following languages is more suited to a structured program.",
+		"answer" : "PL/1,FORTRAN,BASIC,PASCAL",
+		"correct_answer" : "PASCAL",
+		"levelid" : "e935633a-d55f-48fe-8f43-584923e7f406",
+		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
 	}
 ]}
