@@ -1,483 +1,784 @@
 {
-"quiz_question": [
-	{
-		"questionid" : "ff3af11b-9906-4ed2-ae3a-882a2edf5e7b",
-		"question" : "Which of the following languages is more suited to a structured program",
-		"answer" : ["PL\/1","FORTRAN","BASIC","PASCAL"],
-		"correct_answer" : "PASCAL",
-		"levelid" : "e935633a-d55f-48fe-8f43-584923e7f406",
-		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
-	},
-	{
-		"questionid" : "234727a7-a339-4dae-a8c4-138ec56f71ea",
-		"question" : "A computer assisted method for the recording and analyzing of existing or hypothetical systems is",
-		"answer" : ["Datatransmission","Dataflow","Datacapture","Dataprocessing"],
-		"correct_answer" : "Data flow",
-		"levelid" : "e935633a-d55f-48fe-8f43-584923e7f406",
-		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
-	},
-	{
-		"questionid" : "c3088908-43bb-4446-824c-a57f7591f696",
-		"question" : "The brain of any computer system is",
-		"answer" : ["ALU","Memory","CPU","Controlunit"],
-		"correct_answer" : "CPU",
-		"levelid" : "e935633a-d55f-48fe-8f43-584923e7f406",
-		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
-	},
-	{
-		"questionid" : "d08c1fa3-cf1c-4c35-8a53-7879cc3f1304",
-		"question" : "Which of the following computer language is used for artificial intelligence",
-		"answer" : ["FORTRAN","PROLOG","C","COBOL"],
-		"correct_answer" : "PROLOG",
-		"levelid" : "e935633a-d55f-48fe-8f43-584923e7f406",
-		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
-	},
-	{
-		"questionid" : "19fbd761-59af-4b49-861b-e7441f748835",
-		"question" : "The tracks on a disk which can be accessed without repositioning the R\/W heads is",
-		"answer" : ["Surface","Cylinder","Cluster","Alloftheabove"],
-		"correct_answer" : "Cylinder",
-		"levelid" : "e935633a-d55f-48fe-8f43-584923e7f406",
-		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
-	},
-	{
-		"questionid" : "c146f6d1-9ca4-4d9e-ae7b-6a6d7147920f",
-		"question" : "Which of the following is the 1's complement of 10",
-		"answer" : ["01","110","11","10"],
-		"correct_answer" : "01",
-		"levelid" : "e935633a-d55f-48fe-8f43-584923e7f406",
-		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
-	},
-	{
-		"questionid" : "9ae06bc5-4999-4b7d-8862-ea23b7cf9b31",
-		"question" : "A section of code to which control is transferred when a processor is interrupted is known as",
-		"answer" : ["M","SVC","IP","MDR"],
-		"correct_answer" : "M",
-		"levelid" : "e935633a-d55f-48fe-8f43-584923e7f406",
-		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
-	},
-	{
-		"questionid" : "542f79ae-26d0-4331-8649-a0d20d127494",
-		"question" : "The binary system uses powers of",
-		"answer" : ["2","10","8","16"],
-		"correct_answer" : "2",
-		"levelid" : "e935633a-d55f-48fe-8f43-584923e7f406",
-		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
-	},
-	{
-		"questionid" : "cb1d9959-1893-4a76-b4ea-c9f5594d6fac",
-		"question" : "A typical modern computer uses",
-		"answer" : ["LSIchips","Vacuumtubes","Valves","Noneoftheabove"],
-		"correct_answer" : "LSI chips",
-		"levelid" : "15f5f881-2e17-49a6-9f35-6482b18bb58a",
-		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
-	},
-	{
-		"questionid" : "dc2de7be-c13f-4a20-92ff-d5dc5730a32a",
-		"question" : "ENIAC (Electronic Numerical Integrator and Calculator) had huge advantage over Mark I because it used electronic valves in place of the electromagnetic switches. In the beginning, ENIAC was used for calculating the path of artillery shells. For which other was weapon design was it utilized",
-		"answer" : ["hydrogenbomb","atombomb","agnimissile","fighteraircraft"],
-		"correct_answer" : "hydrogen bomb",
-		"levelid" : "15f5f881-2e17-49a6-9f35-6482b18bb58a",
-		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
-	},
-	{
-		"questionid" : "207554db-1f87-472e-ae37-7d55083fd4ec",
-		"question" : "Who was the father of Punched Card Processing",
-		"answer" : ["JPresperEckert","CharlesBabbage","Dr.HermanHollerith","BlaisePascal"],
-		"correct_answer" : "Dr. Herman Hollerith",
-		"levelid" : "15f5f881-2e17-49a6-9f35-6482b18bb58a",
-		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
-	},
-	{
-		"questionid" : "80f51edb-df80-46ea-a49b-542561f0b830",
-		"question" : "When did Hewlett-Packard Inc. Introduce its first HP-110 laptop computer",
-		"answer" : ["1984","1986","1990","1995"],
-		"correct_answer" : "1984",
-		"levelid" : "15f5f881-2e17-49a6-9f35-6482b18bb58a",
-		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
-	},
-	{
-		"questionid" : "b3e7da4b-8f10-4119-bb39-b513e4d39813",
-		"question" : "The computer program language which is widely used in computer science and engineering and also in business is",
-		"answer" : ["COBOL","FORTRAN","PASCAL","LISP"],
-		"correct_answer" : "PASCAL",
-		"levelid" : "15f5f881-2e17-49a6-9f35-6482b18bb58a",
-		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
-	},
-	{
-		"questionid" : "a28b3f6e-dfac-4c7e-86f2-6ad98b383062",
-		"question" : "A 'number crunching' computer is one that can handle",
-		"answer" : ["largespreadsheets","largealphanumericdata","largevolumeofnumbers","onlynumbers"],
-		"correct_answer" : "large volume of numbers",
-		"levelid" : "15f5f881-2e17-49a6-9f35-6482b18bb58a",
-		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
-	},
-	{
-		"questionid" : "7407eb3c-2a21-4b4f-b10f-65987cbe9882",
-		"question" : "The barcode which is used on all types of items, is read by a scanning device directly into the computer. What is the name of this scanning device",
-		"answer" : ["Laserscanner","Wand","OCR","MICR"],
-		"correct_answer" : "Laser scanner",
-		"levelid" : "15f5f881-2e17-49a6-9f35-6482b18bb58a",
-		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
-	},
-	{
-		"questionid" : "74d7922b-6aff-4859-aaa9-6546a0972f34",
-		"question" : "A processing unit that coordinates networks and data communication is known as",
-		"answer" : ["Controlunit","Communicationsprocessor","Registerunit","CPU"],
-		"correct_answer" : "Communications processor",
-		"levelid" : "15f5f881-2e17-49a6-9f35-6482b18bb58a",
-		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
-	},
-	{
-		"questionid" : "899e6fcf-42bc-4d40-a72c-0427db2c7c4f",
-		"question" : "A type of line printer that uses an embossed steel band to form the letters printed on the paper is",
-		"answer" : ["Golfballprinter","Dot-matrixprinter","Laserprinter","Bandprinter"],
-		"correct_answer" : "Band printer",
-		"levelid" : "15f5f881-2e17-49a6-9f35-6482b18bb58a",
-		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
-	},
-	{
-		"questionid" : "1f84de34-aece-46f8-90ef-a7bbef9a6834",
-		"question" : "Which memory system is not as a mass memory medium",
-		"answer" : ["semiconductormemory","magnetictape","magneticdisk","magneticdrum"],
-		"correct_answer" : "semiconductor memory",
-		"levelid" : "15f5f881-2e17-49a6-9f35-6482b18bb58a",
-		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
-	},
-	{
-		"questionid" : "68ec9f21-fe6b-4710-9405-bf859db7f84a",
-		"question" : "A type of simulation method using random numbers to determine the evolution of a system is",
-		"answer" : ["Modeldispersion","Montecarlo","Monadic","Padding"],
-		"correct_answer" : "Monte carlo",
-		"levelid" : "15f5f881-2e17-49a6-9f35-6482b18bb58a",
-		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
-	},
-	{
-		"questionid" : "547b5bf6-3b19-48ec-bc95-0a31903d4e5c",
-		"question" : "A database management system based on the concept of ownership is",
-		"answer" : ["Networktopology","Networklayer","Networkdatabasesystem","Networklicensesystem"],
-		"correct_answer" : "Network database system",
-		"levelid" : "15f5f881-2e17-49a6-9f35-6482b18bb58a",
-		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
-	},
-	{
-		"questionid" : "0fa5f8ae-75ef-4f9e-954d-c2c71262b51a",
-		"question" : "Transmission and presentation of text and graphics is called",
-		"answer" : ["Tele-text","Network","Telematique","Videotext"],
-		"correct_answer" : "Video text",
-		"levelid" : "15f5f881-2e17-49a6-9f35-6482b18bb58a",
-		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
-	},
-	{
-		"questionid" : "2b323429-3f08-4a53-b917-9c53bb792058",
-		"question" : "A factor which might cause an individual to consider using a computer in criminal activities is:",
-		"answer" : ["Thecomputer'saccesstolargesumsofmoney","Thespeedwithwhichthecrimecanbeaccomplished","EFTS(ElectronicFundsTransferSystem)","Alltheabove"],
-		"correct_answer" : "All the above",
-		"levelid" : "24e1592d-0e4b-4d2a-882a-86abdfce18cb",
-		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
-	},
-	{
-		"questionid" : "415ef8f8-eaa6-4559-8287-10da3196efc6",
-		"question" : "Which of the following does not affect the resolution of a video display image?",
-		"answer" : ["bandwidth","rasterscanrate","verticalandhorizontallinesofresolution","screensize"],
-		"correct_answer" : "screen size",
-		"levelid" : "24e1592d-0e4b-4d2a-882a-86abdfce18cb",
-		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
-	},
-	{
-		"questionid" : "713589fd-3636-4dcb-b5c4-75d4e62f55e0",
-		"question" : "Which was the first commercial computer built by M.V. Wilkies.",
-		"answer" : ["Supercomputer","LEO","Mainframe","Microcomputer"],
-		"correct_answer" : "LEO",
-		"levelid" : "24e1592d-0e4b-4d2a-882a-86abdfce18cb",
-		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
-	},
-	{
-		"questionid" : "3cf7d3d8-2514-4254-ab34-bf047ad63299",
-		"question" : "Disketts and hard disks are",
-		"answer" : ["Directaccessdevices","Sequentialaccessdevices","Slowerthanmagnetictape","Usedonlyinmainframecomputers"],
-		"correct_answer" : "Direct access devices",
-		"levelid" : "24e1592d-0e4b-4d2a-882a-86abdfce18cb",
-		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
-	},
-	{
-		"questionid" : "7d9f5a12-b972-4894-a9c1-db06715a450b",
-		"question" : "If you see a diskette with a piece of foil covering its notch, it is said to be",
-		"answer" : ["write-protected","copy-protected","write-enabled","foil-covered"],
-		"correct_answer" : "write-protected",
-		"levelid" : "24e1592d-0e4b-4d2a-882a-86abdfce18cb",
-		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
-	},
-	{
-		"questionid" : "ce135f89-d3dd-4285-a227-ccece25e0939",
-		"question" : "No computer can do anything without a",
-		"answer" : ["program","memory","chip","outputdevice"],
-		"correct_answer" : "program",
-		"levelid" : "24e1592d-0e4b-4d2a-882a-86abdfce18cb",
-		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
-	},
-	{
-		"questionid" : "18cf063d-fdeb-4bef-89e8-12ec1e15a65e",
-		"question" : "The estimation of the value of a function at a point beyond the interval in which the data lies is called known as",
-		"answer" : ["Interpolation","Simulation","Emulation","Extrapolation"],
-		"correct_answer" : "Interpolation",
-		"levelid" : "24e1592d-0e4b-4d2a-882a-86abdfce18cb",
-		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
-	},
-	{
-		"questionid" : "04112267-8474-4cc0-9312-ed163eff1ff5",
-		"question" : "An input device that is able to interpret pencil marks on paper media is known as",
-		"answer" : ["Magneticdisk","OpticalMarkReader","CardPuncher","Magnetictape"],
-		"correct_answer" : "Optical Mark Reader",
-		"levelid" : "15f5f881-2e17-49a6-9f35-6482b18bb58a",
-		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
-	},
-	{
-		"questionid" : "454d792d-5c2a-43b6-94f1-e59742ce89fa",
-		"question" : "Front-end processor is a _____ designed specifically to handle the communications processing task.",
-		"answer" : ["ALU","Controlunit","CPU","Register"],
-		"correct_answer" : "CPU",
-		"levelid" : "e935633a-d55f-48fe-8f43-584923e7f406",
-		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
-	},
-	{
-		"questionid" : "768f4a38-d513-4464-b4da-ca04da56b476",
-		"question" : "The shifting of a program from one of the memory addresses to another is",
-		"answer" : ["Datatransmission","Datacollection","Relocation","Database"],
-		"correct_answer" : "Relocation",
-		"levelid" : "24e1592d-0e4b-4d2a-882a-86abdfce18cb",
-		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
-	},
-	{
-		"questionid" : "84c51f59-d6a2-4c57-a60a-57283722affe",
-		"question" : "Arranging data in a specific order is called",
-		"answer" : ["Merging","Sorting","Classification","Verification"],
-		"correct_answer" : "Sorting",
-		"levelid" : "24e1592d-0e4b-4d2a-882a-86abdfce18cb",
-		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
-	},
-	{
-		"questionid" : "e6d5fedb-1f25-46f8-b0db-23f64f57a6d9",
-		"question" : "The area of computer science which is concerned with the display of pictures is",
-		"answer" : ["Networks","Graphics","Designing","Architecture"],
-		"correct_answer" : "Graphics",
-		"levelid" : "24e1592d-0e4b-4d2a-882a-86abdfce18cb",
-		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
-	},
-	{
-		"questionid" : "993845fb-7757-4282-b8e0-abe17b3eab52",
-		"question" : "Which of the following is a computer memory that can be programmed once, but not reprogrammed.",
-		"answer" : ["ROM","RAM","PROM","EPROM"],
-		"correct_answer" : "PROM",
-		"levelid" : "e935633a-d55f-48fe-8f43-584923e7f406",
-		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
-	},
-	{
-		"questionid" : "89fc0eed-e8bd-4373-bf85-f2ac53b0e337",
-		"question" : "A programming language intended to solve a no. of different types of problems is",
-		"answer" : ["COBOL","Generalpurposeprogramminglanguage","BASIC","FORTRAN"],
-		"correct_answer" : "General purpose programming language",
-		"levelid" : "24e1592d-0e4b-4d2a-882a-86abdfce18cb",
-		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
-	},
-	{
-		"questionid" : "5aa2a812-6558-41e8-a4d0-42a90de6880f",
-		"question" : "Which of the following is used as a primary storage device?",
-		"answer" : ["Magneticdrum","PROM","Floppydisk","Alloftheabove"],
-		"correct_answer" : "PROM",
-		"levelid" : "e935633a-d55f-48fe-8f43-584923e7f406",
-		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
-	},
-	{
-		"questionid" : "cd29a371-9b39-42a7-aafc-5c164a1c432c",
-		"question" : "A software package to implement a data base is",
-		"answer" : ["Systemanalysis","DBMS","Database","DASD"],
-		"correct_answer" : "DBMS",
-		"levelid" : "15f5f881-2e17-49a6-9f35-6482b18bb58a",
-		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
-	},
-	{
-		"questionid" : "2511c647-b185-4678-b848-64c8301501c3",
-		"question" : "Methods used to organise and physically store disk data are cylinder and",
-		"answer" : ["Sector","Surface","Track","Hib"],
-		"correct_answer" : "Sector",
-		"levelid" : "15f5f881-2e17-49a6-9f35-6482b18bb58a",
-		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
-	},
-	{
-		"questionid" : "6f693456-c751-4f13-93ee-941fdf72d911",
-		"question" : "A program used to detect overall system malfunction is",
-		"answer" : ["Systemanalysis","Systemsoftware","Utilities","Systemdiagnostics"],
-		"correct_answer" : "System diagnostics",
-		"levelid" : "15f5f881-2e17-49a6-9f35-6482b18bb58a",
-		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
-	},
-	{
-		"questionid" : "8bd203ed-0a4b-488a-b809-190c3ac4701f",
-		"question" : "A computer, by definition, is any device that computers. This broad definition includes which of the following?",
-		"answer" : ["Calculators","Cashregisters","Automotivecontrollers","Alloftheabove"],
-		"correct_answer" : "All of the above",
-		"levelid" : "15f5f881-2e17-49a6-9f35-6482b18bb58a",
-		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
-	},
-	{
-		"questionid" : "7e3fb4cd-3e17-4408-be49-7d950c4bfdbd",
-		"question" : "What was the computer conceived by Babbage?",
-		"answer" : ["AnalyticalEngine","ArithmeticMachine","DonaldKnuth","Alloftheabove"],
-		"correct_answer" : "Analytical Engine",
-		"levelid" : "24e1592d-0e4b-4d2a-882a-86abdfce18cb",
-		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
-	},
-	{
-		"questionid" : "6fa099ed-c260-4c7b-b7f3-ecee82f9ebb6",
-		"question" : "A acronym for the organisation that publishes programming language standard is",
-		"answer" : ["ASCn","BCD","ANSI","EBCDIC"],
-		"correct_answer" : "ANSI",
-		"levelid" : "15f5f881-2e17-49a6-9f35-6482b18bb58a",
-		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
-	},
-	{
-		"questionid" : "91663e0c-9869-4041-b59e-c2bcaf343e15",
-		"question" : "Which of the following is used to make a programs run when the computer is switched on.",
-		"answer" : ["Autoboot","Warmboot","Bubble","Authentication"],
-		"correct_answer" : "Autoboot",
-		"levelid" : "15f5f881-2e17-49a6-9f35-6482b18bb58a",
-		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
-	},
-	{
-		"questionid" : "834b7bbf-826b-45fa-ac54-997e4f6b73af",
-		"question" : "A micro processor chip used in a PC system",
-		"answer" : ["Performsthearithmetic-logicandcontrolfunctions","IstheonlychipcoundinmostPCmodels","Almostalwaysoperatesonby-bitsofdataatatime","Performstheprimarystoragefunction"],
-		"correct_answer" : "Performs the arithmetic-logic and control functions",
-		"levelid" : "15f5f881-2e17-49a6-9f35-6482b18bb58a",
-		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
-	},
-	{
-		"questionid" : "1df21e42-0331-4941-820d-27987f7c262a",
-		"question" : "ILLIAC is a",
-		"answer" : ["Supercomputer","Minicomputer","Mainframecomputer","Microcomputer"],
-		"correct_answer" : "Super computer",
-		"levelid" : "e935633a-d55f-48fe-8f43-584923e7f406",
-		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
-	},
-	{
-		"questionid" : "7570d358-7aa9-40a9-98bf-8c8de0e17bc3",
-		"question" : "An electrical inter-connection that permit 8 or more bits of data to be moved in the same instant of time is called",
-		"answer" : ["Outlineprocessor","Parallelinterface","Pagelayoutprogram","Fasimilesystem"],
-		"correct_answer" : "Parallel interface",
-		"levelid" : "15f5f881-2e17-49a6-9f35-6482b18bb58a",
-		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
-	},
-	{
-		"questionid" : "00cdeb73-0e9d-47bd-8602-8e61c407d263",
-		"question" : "The hardware in which data may be stored for a computer system is called",
-		"answer" : ["Registers","Bus","Controlunit","Memory"],
-		"correct_answer" : "Memory",
-		"levelid" : "e935633a-d55f-48fe-8f43-584923e7f406",
-		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
-	},
-	{
-		"questionid" : "6bd4de0c-ad92-44b2-bdb9-9b3f255925e0",
-		"question" : "Conversion of an octal number 738 to binary number is",
-		"answer" : ["1101112","1111002","1100102","1110112"],
-		"correct_answer" : "1110112",
-		"levelid" : "24e1592d-0e4b-4d2a-882a-86abdfce18cb",
-		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
-	},
-	{
-		"questionid" : "a9bd3245-8572-4304-b8b5-ee11e7d7f022",
-		"question" : "Which part interprets program instructions and initiate control operations.",
-		"answer" : ["Input","Storageunit","Logicunit","Controlunit"],
-		"correct_answer" : "Control unit",
-		"levelid" : "e935633a-d55f-48fe-8f43-584923e7f406",
-		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
-	},
-	{
-		"questionid" : "da357e3e-32b0-4592-bfd8-2707f1ffbf3a",
-		"question" : "The two main components of the CPU is",
-		"answer" : ["Controlunitandregisters","ControlunitandALU","Registersandmainmemory","ALUandbus"],
-		"correct_answer" : "Control unit and ALU",
-		"levelid" : "24e1592d-0e4b-4d2a-882a-86abdfce18cb",
-		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
-	},
-	{
-		"questionid" : "fc35db6b-b655-43f9-8db4-f20ae3e5584d",
-		"question" : "What difference does the 5th generation computer have from other generation computers?",
-		"answer" : ["Technologicaladvancement","Scientificcode","ObjectOrientedProgramming","Noneoftheabove"],
-		"correct_answer" : "Technological advancement",
-		"levelid" : "e935633a-d55f-48fe-8f43-584923e7f406",
-		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
-	},
-	{
-		"questionid" : "cb6e5767-57bd-499e-a8af-56c4da327af4",
-		"question" : "Which of the following printers, are you sure will not to use if your objective is to print on multicarbon forms",
-		"answer" : ["daisywheel","dot-matrix","laser","thimble"],
-		"correct_answer" : "laser",
-		"levelid" : "15f5f881-2e17-49a6-9f35-6482b18bb58a",
-		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
-	},
-	{
-		"questionid" : "b57dc865-45a9-484a-8ef2-b73d84dff737",
-		"question" : "The term MIPS refers to _____",
-		"answer" : ["millionsofinstructionspersecond","multipleinstructionspersecond","megabytesofinstructionsperseconds","millionsinputprocessorset"],
-		"correct_answer" : "millions of instructions per second",
-		"levelid" : "15f5f881-2e17-49a6-9f35-6482b18bb58a",
-		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
-	},
-	{
-		"questionid" : "e2769fee-3616-4332-9777-40abc4c6ae90",
-		"question" : "The primary memory of a personal computer consists of:",
-		"answer" : ["ROMonly","RAMonly","BothROMandRAM","Memorymodule"],
-		"correct_answer" : "Both ROM and RAM",
-		"levelid" : "15f5f881-2e17-49a6-9f35-6482b18bb58a",
-		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
-	},
-	{
-		"questionid" : "bec126d9-9778-47e8-b894-b85da90d4aad",
-		"question" : "A dot-matrix printer",
-		"answer" : ["isaninputdevice","isanoutputdevice","cannotprintalphabet","hasaspeedof1000cps"],
-		"correct_answer" : "is an output device",
-		"levelid" : "15f5f881-2e17-49a6-9f35-6482b18bb58a",
-		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
-	},
-	{
-		"questionid" : "352b4d5f-2aa4-4dd5-93fe-a3b95f7edcdb",
-		"question" : "What was the name of the first commercially available micro¬processor chip",
-		"answer" : ["Intel8008","Intel8080","Intel4004","Motorola6809"],
-		"correct_answer" : "Intel 4004",
-		"levelid" : "15f5f881-2e17-49a6-9f35-6482b18bb58a",
-		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
-	},
-	{
-		"questionid" : "d74a86e2-cfd2-4273-8a6c-41e033df5a86",
-		"question" : "The term \"memory\" applies to which one of the following",
-		"answer" : ["Logic","Storage","Control","Inputdevice"],
-		"correct_answer" : "Storage",
-		"levelid" : "15f5f881-2e17-49a6-9f35-6482b18bb58a",
-		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
-	},
-	{
-		"questionid" : "c9f3314e-1866-4549-bcd5-39922bdd2d72",
-		"question" : "The light pen was developed in",
-		"answer" : ["1942","1976","1950","1992"],
-		"correct_answer" : "1950",
-		"levelid" : "15f5f881-2e17-49a6-9f35-6482b18bb58a",
-		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
-	},
-	{
-		"questionid" : "f13a9244-1ea1-4c5b-99a6-fc6d1cc541bc",
-		"question" : "Which of the following is directry controlled from a keyboard.",
-		"answer" : ["Cardpunch","Punchedpapertape","Magneticdisk","Magnetictape"],
-		"correct_answer" : "Card punch",
-		"levelid" : "15f5f881-2e17-49a6-9f35-6482b18bb58a",
-		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
-	},
-	{
-		"questionid" : "c7869301-119b-401f-875f-acd31562fb65",
-		"question" : "Which of the following is a machine for reading documents that are encoded in a way that is readable by person and machine.",
-		"answer" : ["Documentreader","Distributedsystem","Artificialintelligence","Documentsorter"],
-		"correct_answer" : "Document reader",
-		"levelid" : "24e1592d-0e4b-4d2a-882a-86abdfce18cb",
-		"career_subjectId" : "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
-	}
-]}
+  "quiz_question": [
+    {
+      "questionid": 9,
+      "question": "\t A type of line printer that uses an embossed steel band to form the letters printed on the paper is",
+      "answer": [
+        "Golfball printer",
+        "Dot-matrix printer",
+        "Laser printer",
+        "Band printer"
+      ],
+      "correct_answer": "Band printer",
+      "levelid": "15f5f881-2e17-49a6-9f35-6482b18bb58a",
+      "career_subjectId": "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
+    },
+    {
+      "questionid": 10,
+      "question": "\t Which memory system is not as a mass memory medium",
+      "answer": [
+        "semiconductor memory",
+        "magnetic tape",
+        "magnetic disk",
+        "magnetic drum"
+      ],
+      "correct_answer": "semiconductor memory",
+      "levelid": "15f5f881-2e17-49a6-9f35-6482b18bb58a",
+      "career_subjectId": "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
+    },
+    {
+      "questionid": 11,
+      "question": "\t A type of simulation method using random numbers to determine the evolution of a system is",
+      "answer": [
+        "Model dispersion",
+        "Monte carlo",
+        "Monadic",
+        "Padding"
+      ],
+      "correct_answer": "Monte carlo",
+      "levelid": "15f5f881-2e17-49a6-9f35-6482b18bb58a",
+      "career_subjectId": "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
+    },
+    {
+      "questionid": 12,
+      "question": "A database management system based on the concept of ownership is",
+      "answer": [
+        "Network topology",
+        "Network layer",
+        "Network database system",
+        "Network license system"
+      ],
+      "correct_answer": "Network database system",
+      "levelid": "15f5f881-2e17-49a6-9f35-6482b18bb58a",
+      "career_subjectId": "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
+    },
+    {
+      "questionid": 14,
+      "question": "An input device that is able to interpret pencil marks on paper media is known as",
+      "answer": [
+        "Magnetic disk",
+        "Optical Mark Reader",
+        "Card Puncher",
+        "Magnetic tape"
+      ],
+      "correct_answer": "Optical Mark Reader",
+      "levelid": "15f5f881-2e17-49a6-9f35-6482b18bb58a",
+      "career_subjectId": "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
+    },
+    {
+      "questionid": 15,
+      "question": "\t A software package to implement a data base is",
+      "answer": [
+        "Systeman alysis",
+        "DBMS",
+        "Database",
+        "DASD"
+      ],
+      "correct_answer": "DBMS",
+      "levelid": "15f5f881-2e17-49a6-9f35-6482b18bb58a",
+      "career_subjectId": "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
+    },
+    {
+      "questionid": 17,
+      "question": "A program used to detect overall system malfunction is",
+      "answer": [
+        "Systeman alysis",
+        "System software",
+        "Utilities",
+        "System diagnostics"
+      ],
+      "correct_answer": "System diagnostics",
+      "levelid": "15f5f881-2e17-49a6-9f35-6482b18bb58a",
+      "career_subjectId": "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
+    },
+    {
+      "questionid": 18,
+      "question": "A computer, by definition, is any device that computers. This broad definition includes which of the following?",
+      "answer": [
+        "Calculators",
+        "Cash registers",
+        "Automotive controllers",
+        "All of the above"
+      ],
+      "correct_answer": "All of the above",
+      "levelid": "15f5f881-2e17-49a6-9f35-6482b18bb58a",
+      "career_subjectId": "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
+    },
+    {
+      "questionid": 21,
+      "question": "A micro processor chip used in a PC system",
+      "answer": [
+        "Performs the arithmetic-logic and control functions",
+        "Is the only chip coundin most PCmodels",
+        "Almost always operates on by-bits of data at a time",
+        "Performs the primary storage function"
+      ],
+      "correct_answer": "Performs the arithmetic-logic and control functions",
+      "levelid": "15f5f881-2e17-49a6-9f35-6482b18bb58a",
+      "career_subjectId": "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
+    },
+    {
+      "questionid": 7,
+      "question": "The barcode which is used on all types of items, is read by a scanning device directly into the computer. What is the name of this scanning device",
+      "answer": [
+        "Laser scanner",
+        "Wand",
+        "OCR",
+        "MICR"
+      ],
+      "correct_answer": "Laser scanner",
+      "levelid": "15f5f881-2e17-49a6-9f35-6482b18bb58a",
+      "career_subjectId": "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
+    },
+    {
+      "questionid": 13,
+      "question": "\t Transmission and presentation of text and graphics is called",
+      "answer": [
+        "Tele-text",
+        "Network",
+        "Telematique",
+        "Video text"
+      ],
+      "correct_answer": "Video text",
+      "levelid": "15f5f881-2e17-49a6-9f35-6482b18bb58a",
+      "career_subjectId": "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
+    },
+    {
+      "questionid": 22,
+      "question": "An electrical inter-connection that permit 8 or more bits of data to be moved in the same instant of time is called",
+      "answer": [
+        "Outline processor",
+        "Parallel interface",
+        "Page layout program",
+        "Fasimile system"
+      ],
+      "correct_answer": "Parallel interface",
+      "levelid": "15f5f881-2e17-49a6-9f35-6482b18bb58a",
+      "career_subjectId": "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
+    },
+    {
+      "questionid": 2,
+      "question": "Which of the following does not affect the resolution of a video display image?",
+      "answer": [
+        "bandwidth",
+        "raster scanrate",
+        "vertical and horizontal lines of resolution",
+        "screensize"
+      ],
+      "correct_answer": "screen size",
+      "levelid": "24e1592d-0e4b-4d2a-882a-86abdfce18cb",
+      "career_subjectId": "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
+    },
+    {
+      "questionid": 4,
+      "question": "Disketts and hard disks are",
+      "answer": [
+        "Direct access devices",
+        "Sequential access devices",
+        "Slower than magnetic tape",
+        "Used only in mainframecomputers"
+      ],
+      "correct_answer": "Direct access devices",
+      "levelid": "24e1592d-0e4b-4d2a-882a-86abdfce18cb",
+      "career_subjectId": "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
+    },
+    {
+      "questionid": 6,
+      "question": "No computer can do anything without a",
+      "answer": [
+        "program",
+        "memory",
+        "chip",
+        "output device"
+      ],
+      "correct_answer": "program",
+      "levelid": "24e1592d-0e4b-4d2a-882a-86abdfce18cb",
+      "career_subjectId": "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
+    },
+    {
+      "questionid": 11,
+      "question": "A programming language intended to solve a no. of different types of problems is",
+      "answer": [
+        "COBOL",
+        "General purpose programming language",
+        "BASIC",
+        "FORTRAN"
+      ],
+      "correct_answer": "General purpose programming language",
+      "levelid": "24e1592d-0e4b-4d2a-882a-86abdfce18cb",
+      "career_subjectId": "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
+    },
+    {
+      "questionid": 12,
+      "question": "What was the computer conceived by Babbage?",
+      "answer": [
+        "Analytical Engine",
+        "Arithmetic Machine",
+        "Donald Knuth",
+        "All of the above"
+      ],
+      "correct_answer": "Analytical Engine",
+      "levelid": "24e1592d-0e4b-4d2a-882a-86abdfce18cb",
+      "career_subjectId": "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
+    },
+    {
+      "questionid": 14,
+      "question": "The two main components of the CPU is",
+      "answer": [
+        "Control unit and registers",
+        "Control unit and ALU",
+        "Registers and main memory",
+        "ALU and bus"
+      ],
+      "correct_answer": "Control unit and ALU",
+      "levelid": "24e1592d-0e4b-4d2a-882a-86abdfce18cb",
+      "career_subjectId": "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
+    },
+    {
+      "questionid": 2,
+      "question": "A computer assisted method for the recording and analyzing of existing or hypothetical systems is",
+      "answer": [
+        "Data transmission",
+        "Data flow",
+        "Data capture",
+        "Data processing"
+      ],
+      "correct_answer": "Data flow",
+      "levelid": "e935633a-d55f-48fe-8f43-584923e7f406",
+      "career_subjectId": "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
+    },
+    {
+      "questionid": 5,
+      "question": "\t The tracks on a disk which can be accessed without repositioning the R/W heads is",
+      "answer": [
+        "Surface",
+        "Cylinder",
+        "Cluster",
+        "All of the above"
+      ],
+      "correct_answer": "Cylinder",
+      "levelid": "e935633a-d55f-48fe-8f43-584923e7f406",
+      "career_subjectId": "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
+    },
+    {
+      "questionid": 11,
+      "question": "Which of the following is used as a primary storage device?",
+      "answer": [
+        "Magnetic drum",
+        "PROM",
+        "Floppy disk",
+        "All of the above"
+      ],
+      "correct_answer": "PROM",
+      "levelid": "e935633a-d55f-48fe-8f43-584923e7f406",
+      "career_subjectId": "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
+    },
+    {
+      "questionid": 14,
+      "question": "\t Which part interprets program instructions and initiate control operations.",
+      "answer": [
+        "Input",
+        "Storage unit",
+        "Logic unit",
+        "Control unit"
+      ],
+      "correct_answer": "Control unit",
+      "levelid": "e935633a-d55f-48fe-8f43-584923e7f406",
+      "career_subjectId": "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
+    },
+    {
+      "questionid": 13,
+      "question": "The hardware in which data may be stored for a computer system is called",
+      "answer": [
+        "Registers",
+        "Bus",
+        "Control unit",
+        "Memory"
+      ],
+      "correct_answer": "Memory",
+      "levelid": "e935633a-d55f-48fe-8f43-584923e7f406",
+      "career_subjectId": "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
+    },
+    {
+      "questionid": 12,
+      "question": "ILLIAC is a",
+      "answer": [
+        "Super computer",
+        "Mini computer",
+        "Mainframe computer",
+        "Micro computer"
+      ],
+      "correct_answer": "Super computer",
+      "levelid": "e935633a-d55f-48fe-8f43-584923e7f406",
+      "career_subjectId": "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
+    },
+    {
+      "questionid": 9,
+      "question": "Front-end processor is a _____ designed specifically to handle the communications processing task.",
+      "answer": [
+        "ALU",
+        "Control unit",
+        "CPU",
+        "Register"
+      ],
+      "correct_answer": "CPU",
+      "levelid": "e935633a-d55f-48fe-8f43-584923e7f406",
+      "career_subjectId": "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
+    },
+    {
+      "questionid": 3,
+      "question": "The brain of any computer system is",
+      "answer": [
+        "ALU",
+        "Memory",
+        "CPU",
+        "Control unit"
+      ],
+      "correct_answer": "CPU",
+      "levelid": "e935633a-d55f-48fe-8f43-584923e7f406",
+      "career_subjectId": "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
+    },
+    {
+      "questionid": 8,
+      "question": "The shifting of a program from one of the memory addresses to another is",
+      "answer": [
+        "Data transmission",
+        "Data collection",
+        "Relocation",
+        "Database"
+      ],
+      "correct_answer": "Relocation",
+      "levelid": "24e1592d-0e4b-4d2a-882a-86abdfce18cb",
+      "career_subjectId": "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
+    },
+    {
+      "questionid": 3,
+      "question": "Which was the first commercial computer built by M.V. Wilkies.",
+      "answer": [
+        "Super computer",
+        "LEO",
+        "Mainframe",
+        "Micro computer"
+      ],
+      "correct_answer": "LEO",
+      "levelid": "24e1592d-0e4b-4d2a-882a-86abdfce18cb",
+      "career_subjectId": "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
+    },
+    {
+      "questionid": 1,
+      "question": "A factor which might cause an individual to consider using a computer in criminal activities is:",
+      "answer": [
+        "The computer's access to large sums of money",
+        "The speed with which the crimecanbeaccomplished",
+        "EFTS (Electronic Funds Transfer System)",
+        "All the above"
+      ],
+      "correct_answer": "All the above",
+      "levelid": "24e1592d-0e4b-4d2a-882a-86abdfce18cb",
+      "career_subjectId": "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
+    },
+    {
+      "questionid": 1,
+      "question": "A typical modern computer uses",
+      "answer": [
+        "LSI chips",
+        "Vacuum tubes",
+        "Valves",
+        "None of the above"
+      ],
+      "correct_answer": "LSI chips",
+      "levelid": "15f5f881-2e17-49a6-9f35-6482b18bb58a",
+      "career_subjectId": "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
+    },
+    {
+      "questionid": 3,
+      "question": "Who was the father of Punched Card Processing",
+      "answer": [
+        "JPresper Eckert",
+        "Charles Babbage",
+        "Dr. Herman Hollerith",
+        "Blaise Pascal"
+      ],
+      "correct_answer": "Dr. Herman Hollerith",
+      "levelid": "15f5f881-2e17-49a6-9f35-6482b18bb58a",
+      "career_subjectId": "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
+    },
+    {
+      "questionid": 6,
+      "question": "A 'number crunching' computer is one that can handle",
+      "answer": [
+        "large spreadsheets",
+        "largealphanumericdata",
+        "largevolumeofnumbers",
+        "onlynumbers"
+      ],
+      "correct_answer": "large volume of numbers",
+      "levelid": "15f5f881-2e17-49a6-9f35-6482b18bb58a",
+      "career_subjectId": "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
+    },
+    {
+      "questionid": 2,
+      "question": "ENIAC (Electronic Numerical Integrator and Calculator) had huge advantage over Mark I because it used electronic valves in place of the electromagnetic switches. In the beginning, ENIAC was used for calculating the path of artillery shells. For which other was weapon design was it utilized",
+      "answer": [
+        "hydrogen bomb",
+        "atom bomb",
+        "agnimissile",
+        "fighter aircraft"
+      ],
+      "correct_answer": "hydrogen bomb",
+      "levelid": "15f5f881-2e17-49a6-9f35-6482b18bb58a",
+      "career_subjectId": "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
+    },
+    {
+      "questionid": 8,
+      "question": "\t A processing unit that coordinates networks and data communication is known as",
+      "answer": [
+        "Control unit",
+        "Communications processor",
+        "Register unit",
+        "CPU"
+      ],
+      "correct_answer": "Communications processor",
+      "levelid": "15f5f881-2e17-49a6-9f35-6482b18bb58a",
+      "career_subjectId": "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
+    },
+    {
+      "questionid": 1,
+      "question": "\t Which of the following languages is more suited to a structured program",
+      "answer": [
+        "PL/1",
+        "FORTRAN",
+        "BASIC",
+        "PASCAL"
+      ],
+      "correct_answer": "PASCAL",
+      "levelid": "e935633a-d55f-48fe-8f43-584923e7f406",
+      "career_subjectId": "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
+    },
+    {
+      "questionid": 4,
+      "question": "Which of the following computer language is used for artificial intelligence",
+      "answer": [
+        "FORTRAN",
+        "PROLOG",
+        "C",
+        "COBOL"
+      ],
+      "correct_answer": "PROLOG",
+      "levelid": "e935633a-d55f-48fe-8f43-584923e7f406",
+      "career_subjectId": "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
+    },
+    {
+      "questionid": 6,
+      "question": "Which of the following is the 1's complement of 10",
+      "answer": [
+        "01",
+        "110",
+        "11",
+        "10"
+      ],
+      "correct_answer": "1",
+      "levelid": "e935633a-d55f-48fe-8f43-584923e7f406",
+      "career_subjectId": "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
+    },
+    {
+      "questionid": 7,
+      "question": "\t A section of code to which control is transferred when a processor is interrupted is known as",
+      "answer": [
+        "M",
+        "SVC",
+        "IP",
+        "MDR"
+      ],
+      "correct_answer": "M",
+      "levelid": "e935633a-d55f-48fe-8f43-584923e7f406",
+      "career_subjectId": "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
+    },
+    {
+      "questionid": 8,
+      "question": "The binary system uses powers of",
+      "answer": [
+        "2",
+        "10",
+        "8",
+        "16"
+      ],
+      "correct_answer": "2",
+      "levelid": "e935633a-d55f-48fe-8f43-584923e7f406",
+      "career_subjectId": "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
+    },
+    {
+      "questionid": 4,
+      "question": "\t When did Hewlett-Packard Inc. Introduce its first HP-110 laptop computer",
+      "answer": [
+        "1984",
+        "1986",
+        "1990",
+        "1995"
+      ],
+      "correct_answer": "1984",
+      "levelid": "15f5f881-2e17-49a6-9f35-6482b18bb58a",
+      "career_subjectId": "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
+    },
+    {
+      "questionid": 5,
+      "question": "The computer program language which is widely used in computer science and engineering and also in business is",
+      "answer": [
+        "COBOL",
+        "FORTRAN",
+        "PASCAL",
+        "LISP"
+      ],
+      "correct_answer": "PASCAL",
+      "levelid": "15f5f881-2e17-49a6-9f35-6482b18bb58a",
+      "career_subjectId": "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
+    },
+    {
+      "questionid": 5,
+      "question": "\t If you see a diskette with a piece of foil covering its notch, it is said to be",
+      "answer": [
+        "write-protected",
+        "copy-protected",
+        "write-enabled",
+        "foil-covered"
+      ],
+      "correct_answer": "write-protected",
+      "levelid": "24e1592d-0e4b-4d2a-882a-86abdfce18cb",
+      "career_subjectId": "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
+    },
+    {
+      "questionid": 7,
+      "question": "\t The estimation of the value of a function at a point beyond the interval in which the data lies is called known as",
+      "answer": [
+        "Interpolation",
+        "Simulation",
+        "Emulation",
+        "Extrapolation"
+      ],
+      "correct_answer": "Interpolation",
+      "levelid": "24e1592d-0e4b-4d2a-882a-86abdfce18cb",
+      "career_subjectId": "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
+    },
+    {
+      "questionid": 9,
+      "question": "\t Arranging data in a specific order is called",
+      "answer": [
+        "Merging",
+        "Sorting",
+        "Classification",
+        "Verification"
+      ],
+      "correct_answer": "Sorting",
+      "levelid": "24e1592d-0e4b-4d2a-882a-86abdfce18cb",
+      "career_subjectId": "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
+    },
+    {
+      "questionid": 10,
+      "question": "The area of computer science which is concerned with the display of pictures is",
+      "answer": [
+        "Networks",
+        "Graphics",
+        "Designing",
+        "Architecture"
+      ],
+      "correct_answer": "Graphics",
+      "levelid": "24e1592d-0e4b-4d2a-882a-86abdfce18cb",
+      "career_subjectId": "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
+    },
+    {
+      "questionid": 10,
+      "question": "Which of the following is a computer memory that can be programmed once, but not reprogrammed.",
+      "answer": [
+        "ROM",
+        "RAM",
+        "PROM",
+        "EPROM"
+      ],
+      "correct_answer": "PROM",
+      "levelid": "e935633a-d55f-48fe-8f43-584923e7f406",
+      "career_subjectId": "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
+    },
+    {
+      "questionid": 16,
+      "question": "Methods used to organise and physically store disk data are cylinder and",
+      "answer": [
+        "Sector",
+        "Surface",
+        "Track",
+        "Hib"
+      ],
+      "correct_answer": "Sector",
+      "levelid": "15f5f881-2e17-49a6-9f35-6482b18bb58a",
+      "career_subjectId": "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
+    },
+    {
+      "questionid": 19,
+      "question": "A acronym for the organisation that publishes programming language standard is",
+      "answer": [
+        "ASCn",
+        "BCD",
+        "ANSI",
+        "EBCDIC"
+      ],
+      "correct_answer": "ANSI",
+      "levelid": "15f5f881-2e17-49a6-9f35-6482b18bb58a",
+      "career_subjectId": "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
+    },
+    {
+      "questionid": 20,
+      "question": "Which of the following is used to make a programs run when the computer is switched on.",
+      "answer": [
+        "Autoboot",
+        "Warmboot",
+        "Bubble",
+        "Authentication"
+      ],
+      "correct_answer": "Autoboot",
+      "levelid": "15f5f881-2e17-49a6-9f35-6482b18bb58a",
+      "career_subjectId": "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
+    },
+    {
+      "questionid": 13,
+      "question": "Conversion of an octal number 738 to binary number is",
+      "answer": [
+        "1101112",
+        "1111002",
+        "1100102",
+        "1110112"
+      ],
+      "correct_answer": "1110112",
+      "levelid": "24e1592d-0e4b-4d2a-882a-86abdfce18cb",
+      "career_subjectId": "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
+    },
+    {
+      "questionid": 29,
+      "question": "\t The light pen was developed in",
+      "answer": [
+        "1942",
+        "1976",
+        "1950",
+        "1992"
+      ],
+      "correct_answer": "1950",
+      "levelid": "15f5f881-2e17-49a6-9f35-6482b18bb58a",
+      "career_subjectId": "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
+    },
+    {
+      "questionid": 15,
+      "question": "What difference does the 5th generation computer have from other generation computers?",
+      "answer": [
+        "Technological advancement",
+        "Scientific code",
+        "Object Oriented Programming",
+        "None of the above"
+      ],
+      "correct_answer": "Technological advancement",
+      "levelid": "e935633a-d55f-48fe-8f43-584923e7f406",
+      "career_subjectId": "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
+    },
+    {
+      "questionid": 23,
+      "question": "Which of the following printers, are you sure will not to use if your objective is to print on multicarbon forms",
+      "answer": [
+        "daisy wheel",
+        "dot-matrix",
+        "laser",
+        "thimble"
+      ],
+      "correct_answer": "laser",
+      "levelid": "15f5f881-2e17-49a6-9f35-6482b18bb58a",
+      "career_subjectId": "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
+    },
+    {
+      "questionid": 24,
+      "question": "The term MIPS refers to _____",
+      "answer": [
+        "millions of instructions per second",
+        "multiple instructions per second",
+        "megabytes of instructions per seconds",
+        "millions input proces sorset"
+      ],
+      "correct_answer": "millions of instructions per second",
+      "levelid": "15f5f881-2e17-49a6-9f35-6482b18bb58a",
+      "career_subjectId": "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
+    },
+    {
+      "questionid": 25,
+      "question": "The primary memory of a personal computer consists of:",
+      "answer": [
+        "ROM only",
+        "RAM only",
+        "Both ROM and RAM",
+        "Memory module"
+      ],
+      "correct_answer": "Both ROM and RAM",
+      "levelid": "15f5f881-2e17-49a6-9f35-6482b18bb58a",
+      "career_subjectId": "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
+    },
+    {
+      "questionid": 26,
+      "question": "A dot-matrix printer",
+      "answer": [
+        "is an input device",
+        "is an output device",
+        "cannot print alphabet",
+        "has a speed of 1000 cps"
+      ],
+      "correct_answer": "is an output device",
+      "levelid": "15f5f881-2e17-49a6-9f35-6482b18bb58a",
+      "career_subjectId": "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
+    },
+    {
+      "questionid": 27,
+      "question": "\t What was the name of the first commercially available micro¬processor chip",
+      "answer": [
+        "Intel 8008",
+        "Intel 8080",
+        "Intel 4004",
+        "Motorola 6809"
+      ],
+      "correct_answer": "Intel 4004",
+      "levelid": "15f5f881-2e17-49a6-9f35-6482b18bb58a",
+      "career_subjectId": "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
+    },
+    {
+      "questionid": 30,
+      "question": "Which of the following is directry controlled from a keyboard.",
+      "answer": [
+        "Card punch",
+        "Punched paper tape",
+        "Magnetic disk",
+        "Magnetic tape"
+      ],
+      "correct_answer": "Card punch",
+      "levelid": "15f5f881-2e17-49a6-9f35-6482b18bb58a",
+      "career_subjectId": "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
+    },
+    {
+      "questionid": 15,
+      "question": "\t Which of the following is a machine for reading documents that are encoded in a way that is readable by person and machine.",
+      "answer": [
+        "Document reader",
+        "Distributed system",
+        "Artificial intelligence",
+        "Document sorter"
+      ],
+      "correct_answer": "Document reader",
+      "levelid": "24e1592d-0e4b-4d2a-882a-86abdfce18cb",
+      "career_subjectId": "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
+    },
+    {
+      "questionid": 28,
+      "question": "The term \"memory\" applies to which one of the following",
+      "answer": [
+        "Logic",
+        "Storage",
+        "Control",
+        "Input device"
+      ],
+      "correct_answer": "Storage",
+      "levelid": "15f5f881-2e17-49a6-9f35-6482b18bb58a",
+      "career_subjectId": "3cf7c206-b9c2-4fa7-b2fc-7da92d0c70c5"
+    }
+  ]
+}

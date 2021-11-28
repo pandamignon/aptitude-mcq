@@ -9,4 +9,9 @@ export class QuizController {
   create() {
     return this.quizService.get();
   }
+
+  @Get('/random')
+  getRandomQuiz() {
+    return this.quizService.getRandomQuizQuestion();
+  }
 }

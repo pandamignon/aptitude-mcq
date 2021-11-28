@@ -10,7 +10,7 @@ import { QuizModule } from './quiz/quiz.module';
   imports: [
     PrismaModule,
     UsersModule,
-    QuizModule
+    QuizModule,
   ],
   controllers: [AppController],
   providers: [AppService],
