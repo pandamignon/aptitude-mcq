@@ -17,9 +17,17 @@ export class QuizService {
     });
   }
 
-  public async getRandomQuizQuestion() {
-    const maxQuestion = await this.maxId();
-    console.log(maxQuestion[0].questionid);
+  public async getRandomQuizQuestion(lv: string) {
+    let levelId = '';
+    if (lv === 'easy') {
+      levelId = this.easyLevelId;
+    } else if (lv === 'medium') {
+      levelId = this.medeiumLevelId;
+    } else if (lv === 'hard') {
+      levelId = this.hardLevelId;
+    }
+    const maxQuestion = await this.maxId(levelId);
+    //console.log(maxQuestion[0].questionid);
     return this.prismaService.quiz_question.findMany({
       select: {
         questionid: true,
@@ -32,7 +40,7 @@ export class QuizService {
         AND: [
           {
             levelid: {
-              equals: this.medeiumLevelId,
+              equals: levelId,
             },
           },
           {
@@ -43,11 +51,12 @@ export class QuizService {
         ],
       },
       take: 1,
-      skip: Math.floor(Math.random() * 30),
+      skip: Math.floor(Math.random() * maxQuestion[0].questionid),
     });
   }
 
-  public maxId() {
+  public maxId(level: string) {
+    const levelId = level;
     return this.prismaService.quiz_question.findMany({
       select: {
         questionid: true,
@@ -61,7 +70,7 @@ export class QuizService {
           },
           {
             levelid: {
-              equals: this.hardLevelId,
+              equals: levelId,
             },
           },
         ],

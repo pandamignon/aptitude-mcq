@@ -53,9 +53,13 @@ model level {
 
 model take {
   id               String          @id @default(uuid())
-  score            Int
+  rank             Int
   status           String
   testDate         DateTime
+  question_medium  String[]
+  question_hard    String[]
+  question_easy    String[]
+  level_path       String[]
   user             user            @relation(fields: [userId], references: [uid])
   userId           Int
   career_subject   career_subject? @relation(fields: [career_subjectId], references: [id])

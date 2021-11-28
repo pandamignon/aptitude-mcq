@@ -1,4 +1,4 @@
-import { Controller, Get } from '@nestjs/common';
+import { Controller, Get, Param } from '@nestjs/common';
 
 import { QuizService } from '../quiz/quiz.service';
 
@@ -10,8 +10,8 @@ export class QuizController {
     return this.quizService.get();
   }
 
-  @Get('/random')
-  getRandomQuiz() {
-    return this.quizService.getRandomQuizQuestion();
+  @Get('/random/:level')
+  getRandomQuiz(@Param('level') level: string) {
+    return this.quizService.getRandomQuizQuestion(level);
   }
 }
