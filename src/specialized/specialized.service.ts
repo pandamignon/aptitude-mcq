@@ -49,7 +49,10 @@ export class SpecializedService {
     console.log(questionBlock);
     console.log(questionMediumPath);
     console.log(questionHardPath);
-    return questionBlock;
+    return { 
+      questionresult: questionBlock, 
+      mediumPath: questionMediumPath,
+      hardPath: questionHardPath };
   }
   public async m3h2() {
     const questionMediumPath: number[] = [];

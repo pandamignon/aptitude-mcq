@@ -55,10 +55,10 @@ model take {
   id               String          @id @default(uuid())
   rank             Int
   status           String
-  testDate         DateTime
-  question_medium  String[]
-  question_hard    String[]
-  question_easy    String[]
+  testDate         String
+  question_medium  Int[]
+  question_hard    Int[]
+  question_easy    Int[]
   level_path       String[]
   user             user            @relation(fields: [userId], references: [uid])
   userId           Int
