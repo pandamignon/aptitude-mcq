@@ -1,7 +1,6 @@
 import { Injectable } from '@nestjs/common';
 import { PrismaService } from 'src/prisma/prisma.service';
 import { CreateCareerDTO } from './dto/career.dto';
-
 import { CreateQuestionDTO } from './dto/question.dto';
 import { CreateCareersubjectDTO } from './dto/careersubject.dto';
 
