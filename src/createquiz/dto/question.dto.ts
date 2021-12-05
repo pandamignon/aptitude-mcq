@@ -1,8 +1,12 @@
 import { ApiProperty } from '@nestjs/swagger';
-import { IsArray, IsEmpty, IsIdentityCard, IsJSON, IsString } from 'class-validator';
+import { IsArray, IsEmpty, IsIdentityCard, IsInt, IsJSON, IsString } from 'class-validator';
 
 export class CreateQuestionDTO {
   
+  @ApiProperty()
+  @IsInt()
+  questionid: string;
+
   @ApiProperty()
   @IsString()
   career_subjectId: string;

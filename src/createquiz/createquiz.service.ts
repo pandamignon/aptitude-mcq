@@ -31,7 +31,7 @@ export class CreatequizService {
 }
     // #Get subject
     public getsubject() {
-        return this.prismaService.career.findMany({
+        return this.prismaService.career_subject.findMany({
           select: {
             title: true,
         
@@ -64,6 +64,7 @@ export class CreatequizService {
      async Question(data: CreateQuestionDTO): Promise <any> {
         const newQusetion = await this.prismaService.quiz_question.create({
             data: { 
+                questionid: data.questionid,
                 career_subjectId: data.career_subjectId, 
                 levelid: data.levelid,
                 question: data.question,
