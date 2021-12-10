@@ -1,6 +1,3 @@
-// This is your Prisma schema file,
-// learn more about it in the docs: https://pris.ly/d/prisma-schema
-
 generator client {
   provider = "prisma-client-js"
 }
@@ -14,7 +11,7 @@ model user {
   uid      Int    @id @default(autoincrement())
   email    String @unique
   name     String
-  password String 
+  password String
   take     take[]
 }
 
@@ -27,8 +24,8 @@ model career {
 model career_subject {
   id            String          @id @default(uuid())
   title         String
-  career        career          @relation(fields: [careerid], references: [careerid])
   careerid      String
+  career        career          @relation(fields: [careerid], references: [careerid])
   quiz_question quiz_question[]
   take          take[]
 }
@@ -38,10 +35,11 @@ model quiz_question {
   question         String
   answer           String[]
   correct_answer   String
-  level            level           @relation(fields: [levelid], references: [levelid])
   levelid          String
-  career_subject   career_subject? @relation(fields: [career_subjectId], references: [id])
   career_subjectId String
+  career_subject   career_subject @relation(fields: [career_subjectId], references: [id])
+  level            level          @relation(fields: [levelid], references: [levelid])
+
   @@id([career_subjectId, levelid, questionid])
 }
 
@@ -60,8 +58,8 @@ model take {
   question_hard    Int[]
   question_easy    Int[]
   level_path       String[]
-  user             user            @relation(fields: [userId], references: [uid])
   userId           Int
-  career_subject   career_subject? @relation(fields: [career_subjectId], references: [id])
   career_subjectId String?
+  career_subject   career_subject? @relation(fields: [career_subjectId], references: [id])
+  user             user            @relation(fields: [userId], references: [uid])
 }

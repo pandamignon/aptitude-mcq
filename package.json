@@ -1,7 +1,7 @@
 {
   "name": "aptitude-practice-mcq",
   "version": "0.0.1",
-  "description": "",
+  "description": "<p align=\"center\">   <a href=\"http://nestjs.com/\" target=\"blank\"><img src=\"https://nestjs.com/img/logo_text.svg\" width=\"320\" alt=\"Nest Logo\" /></a> </p>",
   "author": "",
   "private": true,
   "license": "UNLICENSED",
@@ -32,7 +32,7 @@
     "@nestjs/passport": "^8.0.1",
     "@nestjs/platform-express": "^8.0.0",
     "@nestjs/swagger": "^5.1.4",
-    "@prisma/client": "^3.4.1",
+    "@prisma/client": "^3.6.0",
     "bcrypt": "^5.0.1",
     "class-transformer": "^0.4.0",
     "class-validator": "^0.13.1",
@@ -89,5 +89,17 @@
     ],
     "coverageDirectory": "../coverage",
     "testEnvironment": "node"
-  }
+  },
+  "main": ".eslintrc.js",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pandamignon/aptitude-mcq.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pandamignon/aptitude-mcq/issues"
+  },
+  "homepage": "https://github.com/pandamignon/aptitude-mcq#readme"
 }
